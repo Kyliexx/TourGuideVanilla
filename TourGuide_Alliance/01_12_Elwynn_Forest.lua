@@ -141,7 +141,7 @@ A The Escape |QID|114|
 T Deliver Thomas' Report |QID|39|
 T The Jasperlode Mine |QID|76|
 A Westbrook Garrison Needs Help! |QID|239|
-A Elmore's Task |QID|1097|
+
 A A Warrior's Training |C|Warrior| |QID|1638| |R|Human|
 
 T The Escape |N|Back at the Maclure Vineyards| |QID|114|
@@ -156,16 +156,16 @@ T Riverpaw Gnoll Bounty |QID|11|
 R Westfall
 A Furlbrow's Deed |U|1972| |O| |QID|184|
 T Furlbrow's Deed |O| |QID|184|
-A Report to Gryan Stoutmantle |QID|109|
-A Westfall Stew |QID|38|
+
+
 T Westfall Stew |N|Follow the road south to Saldean's Farm (56.41, 30.53)| |Z|Westfall| |QID|38|
-T Report to Gryan Stoutmantle |N|South at Sentinel Hill, in front of the tower| |QID|109|
+
 A A Swift Message |N|Inside the tower| |R|Human| |QID|6181|
 T A Swift Message |R|Human| |QID|6181|
 A Continue to Stormwind |R|Human| |QID|6281|
 
 F Stormwind City
-T Shipment to Stormwind |N|In the Trade District (56,64)| |Z|Stormwind City| |QID|61|
+T Shipment to Stormwind |N|In the Trade District (58.5,51.10)| |Z|Stormwind City| |QID|61|
 A Wine Shop Advert |N|In front of the Apothecary. He won't have a '!' because this is a "Low Level" quest... but hey, free EXP| |QID|332|
 A Harlan Needs a Resupply |N|North of Weller's Arsenal (55.10, 56.22)| |Z|Stormwind City| |QID|333|
 h Stormwind City
@@ -244,7 +244,7 @@ T The Tome of Divinity (Part 8) |C|Paladin| |QID|1788| |R|Human|
 end)
 
 --[[
-T Elmore's Task |N|In the Dwarven District (51.7, 12.1)| |Z|Stormwind City| |QID|1097|
+
 A Stormpike's Delivery |QID|353|
 R Deeprun Tram
 A Deeprun Rat Roundup |N|At the Ironforge end of the tram| |QID|6661|
